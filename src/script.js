@@ -12,6 +12,7 @@ const characters = [
   "pato",
   "pocoyo",
   "sonequita",
+  "lagarta"
 ];
 
 const createElement = (tag, className) => {
